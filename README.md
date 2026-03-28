@@ -28,5 +28,4 @@
   <a href="https://www.linkedin.com/in/abhidev005/">LinkedIn</a> |
   <a href="abhishekkumastudent1234@gmail.com">Email</a>
 </p>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-![](https://komarev.com/ghpvc/?username=Abhishek20-prog)
+
