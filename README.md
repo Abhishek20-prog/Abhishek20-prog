@@ -26,6 +26,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/abhidev005/">LinkedIn</a> |
-  <a href="abhishekkumastudent1234@gmail.com">Email</a>
+  <a href="Abhishekkumastudent1234@gmail.com">Email</a>
 </p>
 
