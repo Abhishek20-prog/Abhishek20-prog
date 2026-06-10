@@ -37,12 +37,11 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 
 ---
 
-
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" height="48" alt="GSAP" />
 </p>
 
 ---
