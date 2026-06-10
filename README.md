@@ -44,7 +44,7 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+ <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
 </p>
 
 ---
