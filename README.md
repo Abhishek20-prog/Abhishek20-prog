@@ -94,23 +94,18 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 ## 📬 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/Abhishek20-prog">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
-
 <a href="https://linkedin.com/in/abhishekkumar005">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
-
 <a href="mailto:abhishekkumastudent1234@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
-
 <a href="https://instagram.com/vortex.electrified">
 <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
 </a>
-
 </p>
 
 ---
