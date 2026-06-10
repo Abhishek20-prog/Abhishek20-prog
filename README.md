@@ -133,6 +133,11 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhishek20-prog&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhishek20-prog/Abhishek20-prog/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
 <h3 align="center">
