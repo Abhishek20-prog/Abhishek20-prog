@@ -56,7 +56,7 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=🔥+Maintaining+My+Coding+Streak!;🚀+Building+Projects+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=Maintaining+My+Coding+Streak;Building+Projects+Every+Day;JavaScript+%7C+GSAP+%7C+Frontend" />
 </p>
 ## 🔥 GitHub Streak
 
