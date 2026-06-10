@@ -104,7 +104,7 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 </a>
 
 <a href="mailto:abhishekkumastudent1234@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 <a href="https://instagram.com/vortex.electrified">
