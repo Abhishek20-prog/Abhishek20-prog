@@ -55,12 +55,12 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=🔥+Maintaining+My+Coding+Streak!;🚀+Building+Projects+Every+Day" />
+</p>
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif" width="80">
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Abhishek20-prog&theme=tokyonight&hide_border=true" />
