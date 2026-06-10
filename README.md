@@ -59,6 +59,10 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 ## 🔥 GitHub Streak
 
 <p align="center">
+  <img src="https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif" width="80">
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Abhishek20-prog&theme=tokyonight&hide_border=true" />
 </p>
 
