@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Abhishek+Kumar;Frontend+Developer;Building+Projects+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Abhishek+Kumar;Frontend+Developer;GSAP+Animation+Enthusiast;Building+Projects+Every+Day" />
 </p>
 
 <h3 align="center">
@@ -11,7 +11,7 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+Learner;Building+Projects+Every+Day;Future+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+Learner;GSAP+Animation+Enthusiast;Building+Projects+Every+Day;Future+Full+Stack+Developer" />
 </p>
 
 ---
@@ -23,10 +23,12 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 🌱 Currently Learning:
 - JavaScript
 - APIs & Async Programming
+- GSAP Animations
 - Modern Frontend Development
 
 🎯 Goals:
 - Master JavaScript
+- Master GSAP
 - Learn React
 - Become a Full Stack Developer
 
@@ -39,6 +41,10 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 </p>
 
 ---
@@ -79,6 +85,12 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 - Real-Time Validation
 - Error Handling
 - Better User Experience
+
+### 🎬 GSAP Animation Projects
+- Scroll Animations
+- Timeline Animations
+- Interactive UI Effects
+- Smooth Page Transitions
 
 ---
 
