@@ -1,41 +1,54 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=250&section=header&text=Abhishek%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">Frontend Developer | JavaScript Enthusiast | Building & Learning in Public 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Learner;Building+Projects+Every+Day;Open+to+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Abhishek+Kumar;Frontend+Developer;Building+Projects+Every+Day" />
+</p>
+
+<h3 align="center">
+Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+Learner;Building+Projects+Every+Day;Future+Full+Stack+Developer" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **JavaScript, APIs & Async Programming**
-- 💻 Building projects to improve my development skills
-- 🎯 Goal: Become a skilled Full Stack Developer
-- 📚 Learning by creating real-world projects
-- ⚡ Fun Fact: I enjoy turning ideas into working web apps
+💻 Passionate about Web Development
+
+🌱 Currently Learning:
+- JavaScript
+- APIs & Async Programming
+- Modern Frontend Development
+
+🎯 Goals:
+- Master JavaScript
+- Learn React
+- Become a Full Stack Developer
+
+⚡ Fun Fact:
+> I learn best by building real projects and solving real problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek20-prog&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek20-prog&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20-prog&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20-prog&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -43,7 +56,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhishek20-prog&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Abhishek20-prog&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -51,44 +64,76 @@
 ## 🌟 Featured Projects
 
 ### 📝 To-Do App
-A modern task management app with:
 - Local Storage
 - Theme Toggle
 - Custom Alerts
 - Responsive Design
 
 ### 👤 User Profile Manager
-A JavaScript project that:
-- Creates User Cards
-- Stores Data in Local Storage
-- Supports Edit & Delete Features
+- CRUD Operations
+- Local Storage
+- Dynamic Card Rendering
+- Theme Switching
 
 ### ✅ Form Validation System
-A complete validation system with:
-- Real-time Validation
+- Real-Time Validation
 - Error Handling
 - Better User Experience
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://github.com/Abhishek20-prog">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 <a href="https://linkedin.com/in/abhishekkumar005">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
+
+<a href="mailto:abhishekkumastudent1234@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/vortex.electrified">
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
+
 </p>
 
 ---
 
-<div align="center">
+## 🏆 GitHub Trophies
 
-### 🚀 "Consistency Beats Motivation."
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishek20-prog&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+---
 
-</div>
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek20-prog&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishek20-prog&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<h3 align="center">
+🚀 Consistency Beats Motivation.
+</h3>
+
+<p align="center">
+  Thanks for visiting my profile ❤️
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
+</p>
