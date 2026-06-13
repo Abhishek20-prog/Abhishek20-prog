@@ -69,6 +69,19 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 ---
 
 ## 🌟 Featured Projects
+## 🤝 Team Projects
+
+### Blood Connect
+A blood donation platform built during a hackathon.
+
+**My Contributions:**
+- Frontend Development
+- UI Desig
+- Animations (GSAP)
+- Location Features
+- Login and Register Feature
+
+🔗 Repository: https://github.com/Shreyyyi/BloodConnect
 
 ### 📝 To-Do App
 - Local Storage
