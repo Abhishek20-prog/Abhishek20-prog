@@ -80,6 +80,7 @@ A blood donation platform built during a hackathon.
 - Animations (GSAP)
 - Location Features
 - Login and Register Feature
+- Deployed
 🔗 Repository: https://github.com/Shreyyyi/BloodConnect
 
 ## 🌟 Featured Projects
@@ -95,6 +96,8 @@ A blood donation platform built during a hackathon.
 - Local Storage
 - Dynamic Card Rendering
 - Theme Switching
+- Deployed
+🔗 URL: https://persona-forge-ochre.vercel.app/
 
 ### ✅ Form Validation System
 - Real-Time Validation
