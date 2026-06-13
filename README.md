@@ -127,6 +127,9 @@ A blood donation platform built during a hackathon.
 <a href="https://instagram.com/vortex.electrified">
 <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
 </a>
+   <a href="https://leetcode.com/u/Abhishekkumar_20/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="35" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
