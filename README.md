@@ -21,7 +21,7 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 💻 Passionate about Web Development
 
 🌱 Currently Learning:
-- JavaScript
+- React.Js
 - APIs & Async Programming
 - GSAP Animations
 - Modern Frontend Development
