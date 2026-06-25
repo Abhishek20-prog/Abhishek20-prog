@@ -40,7 +40,8 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="45" alt="Vercel" />
   <img src="https://cdn.simpleicons.org/greensock/88CE02" height="48" alt="GSAP" />
 </p>
 
