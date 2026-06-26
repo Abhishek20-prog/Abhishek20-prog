@@ -41,7 +41,7 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i= html,css,js,react,tailwind,gsap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,gsap" />
 </p>
 
 <h3 align="center">Backend / Learning</h3>
