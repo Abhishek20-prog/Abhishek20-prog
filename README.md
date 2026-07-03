@@ -56,17 +56,18 @@ Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek20-prog&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20-prog&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Abhishek20-prog&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 
----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=Maintaining+My+Coding+Streak;Building+Projects+Every+Day;JavaScript+%7C+GSAP+%7C+Frontend" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20-prog&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 ## 🔥 GitHub Streak
 
