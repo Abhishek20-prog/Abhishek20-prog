@@ -1,186 +1,245 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=250&section=header&text=Abhishek%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&font=JetBrains+Mono&weight=700&size=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C2FF,100:6A5ACD&text=Abhishek%20Kumar&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Abhishek+Kumar;Frontend+Developer;GSAP+Animation+Enthusiast;Building+Projects+Every+Day" />
-</p>
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
 <h3 align="center">
-Frontend Developer • JavaScript Enthusiast • Building in Public 🚀
+Frontend Developer • JavaScript Enthusiast • React Learner 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+Learner;GSAP+Animation+Enthusiast;Building+Projects+Every+Day;Future+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Developer;GSAP+Animation+Enthusiast;Building+Projects+Every+Day;Future+Full+Stack+Developer"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-💻 Passionate about Web Development
+💻 Passionate about building modern web applications.
 
-🌱 Currently Learning:
-- React.Js
-- APIs & Async Programming
+🌱 Currently Learning
+
+- React.js
+- APIs & Async JavaScript
 - GSAP Animations
-- Modern Frontend Development
+- Node.js
+- Express.js
+- MongoDB
 
-🎯 Goals:
-- Master JavaScript
-- Master GSAP
-- Learn React
+🎯 Goals
+
 - Become a Full Stack Developer
+- Master React Ecosystem
+- Learn Backend Development
+- Build Production-Ready Projects
 
-⚡ Fun Fact:
-> I learn best by building real projects and solving real problems.
+⚡ Fun Fact
 
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,gsap" />
-</p>
-
-<h3 align="center">Backend / Learning</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
-</p>
+> I believe the fastest way to learn programming is by building real-world projects.
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
+
+## Frontend
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Abhishek20-prog&show_icons=true&theme=tokyonight&hide_border=true&v=2" 
-    alt="GitHub Stats"
-  />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,gsap" />
 </p>
 
+## Backend
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20-prog&layout=compact&theme=tokyonight&hide_border=true&v=2" 
-    alt="Top Languages"
-  />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
-## 🔥 GitHub Streak
 
-
+## Tools
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhishek20-prog&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,npm" />
 </p>
 
 ---
 
+# 🚀 Featured Projects
 
-## 🤝 Team Projects
+## 🩸 Blood Connect
 
-### Blood Connect
-A blood donation platform built during a hackathon.
+Blood donation platform built during a hackathon.
 
-**My Contributions:**
+### Features
+
+- Responsive UI
+- GSAP Animations
+- Authentication
+- Location-based Blood Search
+- Modern Landing Page
+
+### My Contributions
+
 - Frontend Development
-- UI Desig
-- Animations (GSAP)
-- Location Features
-- Login and Register Feature
-- Deployed
-🔗 Repository: https://github.com/Shreyyyi/BloodConnect
+- UI/UX Design
+- GSAP Animations
+- Authentication
+- Deployment
 
-## 🌟 Featured Projects
+🔗 Repository
 
-### 📝 To-Do App
-- Local Storage
-- Theme Toggle
-- Custom Alerts
-- Responsive Design
-
-### 👤 User Profile Manager
-- CRUD Operations
-- Local Storage
-- Dynamic Card Rendering
-- Theme Switching
-- Deployed
-🔗 URL: https://persona-forge-ochre.vercel.app/
-
-### ✅ Form Validation System
-- Real-Time Validation
-- Error Handling
-- Better User Experience
-
-### 🎬 GSAP Animation Projects
-- Scroll Animations
-- Timeline Animations
-- Interactive UI Effects
-- Smooth Page Transitions
+https://github.com/Shreyyyi/BloodConnect
 
 ---
 
-## 📬 Connect With Me
+## 📅 Day-Kram
+
+A productivity and daily planner built with React.
+
+### Features
+
+- Task Management
+- Responsive Design
+- Clean UI
+- React Hooks
+- Tailwind CSS
+
+🔗 Live
+
+https://day-kram.vercel.app/
+
+---
+
+## 🤖 Galnexa
+
+AI-powered web application built using React.
+
+### Features
+
+- AI Chat
+- API Integration
+- Responsive Design
+- Clean Modern UI
+- React + Tailwind
+
+🔗 Live
+
+https://galnexa-two.vercel.app/
+
+---
+
+## 🌍 NGO Awareness Website
+
+Awareness website built to promote NGO initiatives.
+
+### Features
+
+- Responsive Landing Page
+- GSAP Animations
+- Theme Toggle
+- Interactive Sections
+- Modern Design
+
+---
+
+## 🛒 Product Filtering System
+
+React-based product filtering application.
+
+### Features
+
+- Search
+- Category Filter
+- Price Filter
+- Dynamic Rendering
+- React Hooks
+- Responsive UI
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek20-prog&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20-prog&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishek20-prog&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishek20-prog&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek20-prog&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 💻 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Abhishekkumar_20?theme=dark&font=JetBrains+Mono&ext=contest"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
 <a href="https://github.com/Abhishek20-prog">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
+
 <a href="https://linkedin.com/in/abhishekkumar005">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
+
 <a href="mailto:abhishekkumastudent1234@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
+
 <a href="https://instagram.com/vortex.electrified">
 <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
 </a>
-   <a href="https://leetcode.com/u/Abhishekkumar_20/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode" height="35" alt="LeetCode"/>
-  </a>
+
+<a href="https://leetcode.com/u/Abhishekkumar_20/">
+<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
+</a>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 👀 Profile Views
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek20-prog&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://komarev.com/ghpvc/?username=Abhishek20-prog&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek20-prog&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Abhishekkumar_20?theme=dark&font=JetBrains+Mono&ext=contest" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhishek20-prog&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<h3 align="center">
+<h2 align="center">
 🚀 Consistency Beats Motivation.
-</h3>
+</h2>
 
 <p align="center">
-  Thanks for visiting my profile ❤️
+Thanks for visiting my profile ❤️
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C2FF,100:6A5ACD"/>
 </p>
