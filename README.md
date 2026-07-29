@@ -157,6 +157,10 @@ React-based product filtering application.
 - React Hooks
 - Responsive UI
 
+   🔗 Live
+  
+  https://e-shop-sigma-three.vercel.app/
+
 ---
 
 # 📊 GitHub Stats
