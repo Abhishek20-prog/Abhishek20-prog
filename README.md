@@ -138,9 +138,9 @@ Awareness website built to promote NGO initiatives.
 - Interactive Sections
 - Modern Design
 
-  🔗 Live
+🔗 Live
 
-  https://foundation-awareness.vercel.app/
+ https://foundation-awareness.vercel.app/
 
 ---
 
@@ -157,9 +157,9 @@ React-based product filtering application.
 - React Hooks
 - Responsive UI
 
-   🔗 Live
+🔗 Live
   
-  https://e-shop-sigma-three.vercel.app/
+https://e-shop-sigma-three.vercel.app/
 
 ---
 
