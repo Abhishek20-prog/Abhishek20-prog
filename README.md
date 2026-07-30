@@ -63,7 +63,7 @@ Frontend Developer • JavaScript Enthusiast • React Learner 🚀
 ---
 
 # 🚀 Featured Projects
-## 🧠 ContextBell
+## 🧠 ContextBell (Hackathon team project)
 
 An AI-powered learning platform that helps students interact with educational content through an intelligent chatbot. Built with a modern React stack and integrated with AI APIs to deliver contextual responses in a clean, responsive interface.
 
@@ -89,11 +89,11 @@ React • TypeScript • Tailwind CSS • Vite • AI API • Vercel
 - Modern frontend architecture
 - Deploying AI applications
 
-🔗 **Live:** https://YOUR-VERCEL-LINK.vercel.app
+🔗 **Live:** https://context-bell-tutor.lovable.app/
 
-🔗 **Repository:** https://github.com/Abhishek20-prog/YOUR-REPO
 
-## 🩸 Blood Connect
+
+## 🩸 Blood Connect  (Hackathon team project)
 
 Blood donation platform built during a hackathon.
 
