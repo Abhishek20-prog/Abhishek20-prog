@@ -63,6 +63,35 @@ Frontend Developer • JavaScript Enthusiast • React Learner 🚀
 ---
 
 # 🚀 Featured Projects
+## 🧠 ContextBell
+
+An AI-powered learning platform that helps students interact with educational content through an intelligent chatbot. Built with a modern React stack and integrated with AI APIs to deliver contextual responses in a clean, responsive interface.
+
+### Features
+
+- 🤖 AI-powered chatbot
+- 💬 Context-aware conversations
+- 🎤 Voice interaction support
+- 📱 Fully responsive UI
+- ⚡ Fast performance with Vite
+- 🎨 Modern Tailwind CSS design
+
+### Tech Stack
+
+React • TypeScript • Tailwind CSS • Vite • AI API • Vercel
+
+### What I Learned
+
+- AI API integration
+- Environment variable management
+- Debugging production issues
+- API error handling
+- Modern frontend architecture
+- Deploying AI applications
+
+🔗 **Live:** https://YOUR-VERCEL-LINK.vercel.app
+
+🔗 **Repository:** https://github.com/Abhishek20-prog/YOUR-REPO
 
 ## 🩸 Blood Connect
 
