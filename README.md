@@ -89,7 +89,7 @@ React • TypeScript • Tailwind CSS • Vite • AI API • Vercel
 - Modern frontend architecture
 - Deploying AI applications
 
-🔗 **Live:** https://context-bell-tutor.lovable.app/
+🔗 **Live:** https://context-bell-study-ai.lovable.app/
 
 
 
