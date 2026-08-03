@@ -45,7 +45,7 @@ Frontend Developer • JavaScript Enthusiast • React Learner 🚀
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,motion" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,Framer Motion" />
 </p>
 
 ## Backend
