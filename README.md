@@ -56,7 +56,7 @@ Frontend Developer • JavaScript Enthusiast • React Learner 🚀
   <img src="https://cdn.simpleicons.org/framer/0055FF" height="48" alt="Framer Motion"/>
 </p>
 
-## Backend
+## Backend (Learning)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
