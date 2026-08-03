@@ -22,7 +22,7 @@ Frontend Developer • JavaScript Enthusiast • React Learner 🚀
 
 - React.js
 - APIs & Async JavaScript
-- GSAP Animations
+- Framer Motion
 - Node.js
 - Express.js
 - MongoDB
@@ -45,7 +45,7 @@ Frontend Developer • JavaScript Enthusiast • React Learner 🚀
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,gsap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,motion" />
 </p>
 
 ## Backend
