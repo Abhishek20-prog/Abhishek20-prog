@@ -53,7 +53,7 @@ Frontend Developer • JavaScript Enthusiast • React Learner 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="48"/>
+  <img src="https://cdn.simpleicons.org/framer/0055FF" height="48" alt="Framer Motion"/>
 </p>
 
 ## Backend
