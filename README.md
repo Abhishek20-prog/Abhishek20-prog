@@ -10,8 +10,9 @@
 </p>
 
 ---
-
-# 🚀 About Me
+<h2 align="center">
+🖤 <span style="color:#D4AF37;">About Me</span>
+</h2>
 
 💻 Passionate about building modern web applications.
 
