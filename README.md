@@ -14,7 +14,7 @@
 🖤 <span style="color:#D4AF37;">About Me</span>
 </h2>
 
-💻 Passionate about building modern web applications.
+⚜️ Passionate about building modern web applications.
 
 🌱 Currently Learning
 
@@ -38,7 +38,9 @@
 
 ---
 
-# 🛠️ Tech Stack
+<h2 align="center">
+🛠️ <span style="color:#D4AF37;">Tech Stack</span>
+</h2>
 
 
 ## Frontend
@@ -68,7 +70,10 @@
 
 ---
 
-# 🚀 Featured Projects
+<h2 align="center">
+🚀 <span style="color:#D4AF37;">Featured Projects</span>
+</h2>
+
 ## 🧠 ContextBell (Hackathon team project)
 
 An AI-powered learning platform that helps students interact with educational content through an intelligent chatbot. Built with a modern React stack and integrated with AI APIs to deliver contextual responses in a clean, responsive interface.
@@ -198,40 +203,52 @@ https://e-shop-sigma-three.vercel.app/
 
 ---
 
-# 📊 GitHub Stats
+<h2 align="center">
+📊 <span style="color:#D4AF37;">GitHub Statistics</span>
+</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishek20-prog&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishek20-prog&layout=compact&theme=tokyonight&hide_border=true"/>
+  <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek20-prog&show_icons=true&theme=transparent&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=3B2F2F"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20-prog&layout=compact&theme=transparent&title_color=D4AF37&text_color=ffffff&border_color=3B2F2F"/>
+</p>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+<h2 align="center">
+🔥 <span style="color:#D4AF37;">GitHub Streak</span>
+</h2>
 
 <p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishek20-prog&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishek20-prog&theme=transparent&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=3B2F2F"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+<h2 align="center">
+🏆 <span style="color:#D4AF37;">GitHub Trophies</span>
+  
+</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek20-prog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=Abhishek20-prog&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
+<h2 align="center">
+📈 <span style="color:#D4AF37;">Contribution Graph</span>
+</h2>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek20-prog&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek20-prog&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 💻 LeetCode Stats
+<h2 align="center">
+💻 <span style="color:#D4AF37;">LeetCode</span>
+</h2>
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Abhishekkumar_20?theme=dark&font=JetBrains+Mono&ext=contest"/>
@@ -239,7 +256,9 @@ https://e-shop-sigma-three.vercel.app/
 
 ---
 
-# 📫 Connect With Me
+<h2 align="center">
+📫 <span style="color:#D4AF37;">Connect With Me</span>
+</h2>
 
 <p align="center">
 
@@ -270,13 +289,13 @@ https://e-shop-sigma-three.vercel.app/
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Abhishek20-prog&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Abhishek20-prog&label=Profile+Views&color=D4AF37&style=for-the-badge"/>
 </p>
 
 ---
 
 <h2 align="center">
-🚀 Consistency Beats Motivation.
+👑 Crafting elegant code, one commit at a time.
 </h2>
 
 <p align="center">
