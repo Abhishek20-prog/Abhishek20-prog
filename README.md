@@ -240,9 +240,11 @@ https://e-shop-sigma-three.vercel.app/
 <h2 align="center">
 📈 <span style="color:#D4AF37;">Contribution Graph</span>
 </h2>
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek20-prog&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek20-prog&theme=github-dark&hide_border=true" />
 </p>
+
 
 ---
 
