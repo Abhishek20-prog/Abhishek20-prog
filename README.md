@@ -5,9 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Developer;Framer+Motion+Enthusiast;Building+Modern+Web+Experiences;Future+Full+Stack+Developer"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Developer;GSAP+Animation+Enthusiast;Building+Projects+Every+Day;Future+Full+Stack+Developer"/>
-</p>
+
 
 ---
 <h2 align="center">
