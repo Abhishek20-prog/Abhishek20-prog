@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C2FF,100:6A5ACD&text=Abhishek%20Kumar&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7F5AF0,50:2CB67D,100:F4D35E&text=Abhishek%20Kumar&fontColor=ffffff&fontSize=52&font=Outfit&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
@@ -286,5 +286,5 @@ Thanks for visiting my profile ❤️
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C2FF,100:6A5ACD"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn/>
 </p>
