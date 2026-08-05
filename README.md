@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111111,50:3B2F2F,100:D4AF37&text=Abhishek%20Kumar&fontColor=ffffff&fontSize=52&font=Cinzel&animation=fadeIn&fontAlignY=38"/>
 </p>
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-
-<h3 align="center">
-Frontend Developer • JavaScript Enthusiast • React Learner 🚀
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Developer;Framer+Motion+Enthusiast;Building+Modern+Web+Experiences;Future+Full+Stack+Developer"/>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Developer;GSAP+Animation+Enthusiast;Building+Projects+Every+Day;Future+Full+Stack+Developer"/>
