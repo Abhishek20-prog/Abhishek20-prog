@@ -224,14 +224,14 @@ https://e-shop-sigma-three.vercel.app/
 
 ---
 
-<!-- <h2 align="center">
+<h2 align="center">
 🏆 <span style="color:#D4AF37;">GitHub Trophies</span>
   
 </h2>
 
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek20-prog&theme=algolia&no-frame=true&margin-w=15"/>
-</p> -->
+</p> 
 
 ---
 
