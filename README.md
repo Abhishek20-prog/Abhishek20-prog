@@ -1,249 +1,94 @@
- <div align="center">
+ <!-- ⚡ CYBERPUNK NEON — ABHISHEK KUMAR -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,30:082F49,65:075985,100:06B6D4&text=ABHISHEK%20KUMAR&fontColor=E0F2FE&fontSize=46&fontAlignY=38&desc=OCEAN%20CYBER%20TERMINAL&descSize=17&descColor=67E8F9&descAlignY=58&animation=twinkling" width="100%" alt="Ocean cyber terminal animated header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050816,45:312E81,100:06B6D4&text=ABHISHEK%20KUMAR&fontColor=FFFFFF&fontSize=44&font=Orbitron&animation=fadeIn&desc=FULL%20STACK%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20CREATIVE%20CODER&descSize=13&descAlignY=72" width="100%" alt="Animated neon header"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1800&pause=450&color=22D3EE&center=true&vCenter=true&width=750&lines=%3E+BOOTING+DEVELOPER+ENVIRONMENT...;%3E+LOADING+CREATIVE+IDEAS...;%3E+FRONTEND+DEVELOPER+%7C+ML+EXPLORER;%3E+SYSTEM+STATUS%3A+ALWAYS+LEARNING;%3E+READY_TO_BUILD_%E2%96%88" alt="Animated terminal boot sequence"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&width=650&height=55&lines=%3E+Initializing+creative+mode...;%3E+Building+TwixChat+%F0%9F%92%AC;%3E+Training+my+first+ML+models+%F0%9F%A4%96;%3E+Code.+Create.+Evolve.+%E2%9A%A1" alt="Animated developer intro"/>
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-0891B2?style=for-the-badge&logo=linux&logoColor=white" alt="System online"/>
-<img src="https://img.shields.io/badge/ENVIRONMENT-OCEAN_TERMINAL-0E7490?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Ocean terminal"/>
-<img src="https://img.shields.io/badge/MODE-BUILD%20%2F%20LEARN-164E63?style=for-the-badge&logo=github&logoColor=white" alt="Build and learn"/>
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-020617?style=flat-square&logo=github&logoColor=22D3EE)](https://github.com/Abhishek20-prog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-020617?style=flat-square&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/abhishekkumar005/)
-[![Instagram](https://img.shields.io/badge/Instagram-020617?style=flat-square&logo=instagram&logoColor=22D3EE)](https://www.instagram.com/vortex.electrified/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-020617?style=flat-square&logo=leetcode&logoColor=22D3EE)](https://leetcode.com/u/Abhishekkumar_20/)
-
-</div>
+<p align="center">
+  <a href="https://twix-chat-seven.vercel.app/feed"><img src="https://img.shields.io/badge/⚡_TWIXCHAT-00D9FF?style=for-the-badge&logo=vercel&logoColor=050816" alt="TwixChat"/></a>
+  <a href="https://github.com/Abhishek20-prog"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/abhishekkumar005"><img src="https://img.shields.io/badge/LINKEDIN-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ---
 
-## `01 // INITIALIZE PROFILE`
+### `// 01 — PLAYER PROFILE`
 
 ```text
-┌──────────────────── OCEAN OS v1.0 ────────────────────┐
-│                                                       │
-│  USER       : Abhishek Kumar                          │
-│  ROLE       : Frontend Developer / ML Learner         │
-│  ENV        : Web Development                         │
-│  EXPLORING  : Python / AI / Machine Learning          │
-│  MISSION    : Build useful digital experiences        │
-│  STATUS     : LEARNING > BUILDING > IMPROVING         │
-│                                                       │
-└───────────────────────────────────────────────────────┘
+NAME      Abhishek Kumar
+ROLE      Full-Stack Developer
+EXPLORING Python • Machine Learning • AI
+BUILDING  Interactive web applications
+MINDSET   Learn → Build → Debug → Repeat
 ```
 
-```bash
-$ whoami
-Abhishek Kumar
-
-$ cat interests.txt
-Frontend Development
-Artificial Intelligence & Machine Learning
-UI/UX Design
-Creative Web Experiences
-
-$ ./start-learning.sh
-[OK] Experimenting with new technologies
-[OK] Building practical projects
-[OK] Improving one commit at a time
-```
-
-I enjoy building interactive web applications and exploring how AI and machine learning can solve real problems. I learn by creating projects, testing ideas, and improving my code.
-
----
-
-## `02 // LOAD TECH STACK`
-
-<div align="center">
-
-**[ LANGUAGES ]**
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML, CSS"/>
-
-**[ FRONTEND / INTERFACE ]**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,redux,figma&theme=dark" alt="React, Tailwind CSS, Vite, Redux, Figma"/>
-
-**[ BACKEND / DATABASE ]**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express, MongoDB"/>
-
-**[ TOOLS / PLATFORMS ]**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,sklearn&theme=dark" alt="Git, GitHub, VS Code, npm, Vercel, scikit-learn"/>
-
-</div>
-
----
-
-## `03 // PROJECT DATABASE`
-
-> Querying selected projects from my development journey.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌊 TwixChat
-
-**TYPE:** Social Networking Platform
-
-A full-stack social application featuring posts, stories, profiles, connections, and messaging.
-
-`React` `Tailwind CSS` `Node.js` `Express` `MongoDB`
-
-[**OPEN LIVE APPLICATION ↗**](https://twix-chat-seven.vercel.app/feed)
-
-[**EXPLORE GITHUB ↗**](https://github.com/Abhishek20-prog)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Student Score Predictor
-
-**TYPE:** Machine Learning
-
-A beginner ML project that predicts student scores using regression and a sample student dataset.
-
-`Python` `NumPy` `Pandas` `scikit-learn`
-
-[**BROWSE MY REPOSITORIES ↗**](https://github.com/Abhishek20-prog?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 ContextBell
-
-**TYPE:** AI Study Application
-
-An AI-powered study application concept designed to support learning.
-
-[**OPEN LIVE APPLICATION ↗**](https://context-bell-study-ai.lovable.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🩸 BloodConnect
-
-**TYPE:** Blood Donation Project
-
-A project focused on blood donation and connecting people with donor resources.
-
-[**VIEW SOURCE CODE ↗**](https://github.com/Shreyyyi/BloodConnect)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📅 Day-Kram
-
-**TYPE:** Web Application
-
-A web project exploring daily activity organization.
-
-[**OPEN LIVE APPLICATION ↗**](https://day-kram.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌌 Galnexa
-
-**TYPE:** Web Experience
-
-A modern web project from my frontend development journey.
-
-[**OPEN LIVE APPLICATION ↗**](https://galnexa-two.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 Foundation Awareness
-
-**TYPE:** Social Awareness Website
-
-A website focused on NGO and foundation awareness.
-
-[**OPEN LIVE APPLICATION ↗**](https://foundation-awareness.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ E-Shop Product Filtering
-
-**TYPE:** E-Commerce Interface
-
-A web interface featuring product filtering functionality.
-
-[**OPEN LIVE APPLICATION ↗**](https://e-shop-sigma-three.vercel.app/)
-
-</td>
-</tr>
-</table>
-
----
-
-## `04 // LIVE SYSTEM METRICS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek20-prog&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=06B6D4&text_color=CFFAFE&ring_color=22D3EE" height="175" alt="GitHub overview statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20-prog&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CFFAFE" height="175" alt="Most used programming languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Abhishek20-prog&hide_border=true&background=020617&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=67E8F9&currStreakNum=E0F2FE&sideNums=CFFAFE&dates=94A3B8" width="80%" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## `05 // CONTRIBUTION STREAM`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abhishek20-prog/Abhishek20-prog/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-</div>
-
----
-
-## `06 // TERMINAL ACCESS`
-
-```bash
-$ connect --platform github
-$ connect --platform linkedin
-$ connect --platform instagram
-$ connect --platform leetcode
-
-# Keep exploring. Keep building. Keep improving.
-```
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/OPEN%20GITHUB-020617?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/Abhishek20-prog)
-
-[![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/abhishekkumar005/)
-
-[![Instagram](https://img.shields.io/badge/FOLLOW%20ON%20INSTAGRAM-020617?style=for-the-badge&logo=instagram&logoColor=22D3EE)](https://www.instagram.com/vortex.electrified/)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1800&pause=650&color=22D3EE&center=true&vCenter=true&width=650&lines=%3E+SESSION+ACTIVE...;%3E+IDEAS+INTO+CODE.;%3E+CODE+INTO+PRODUCTS.;%3E+NEXT+MISSION%3A+BUILD+SOMETHING+GREAT_%E2%96%88" alt="Animated terminal closing sequence"/>
-
-<br/>
-
-<sub>OCEAN CYBER TERMINAL // SESSION COMPLETE // SEE YOU IN THE NEXT COMMIT</sub>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06B6D4,50:075985,100:020617&section=footer" width="100%" alt="Ocean-themed footer"/>
-</div>
+- 🚀 Building full-stack applications with React, Node.js, Express, and MongoDB.
+- 🤖 Exploring machine learning with Python and scikit-learn.
+- 🎨 Interested in UI/UX, animations, and frontend engineering.
+
+### `// 02 — TECH ARSENAL`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,mongodb,python,flask,git,github,vscode&perline=7&theme=dark" alt="Technology icons"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk"/>
+  <img src="https://img.shields.io/badge/ImageKit-06B6D4?style=flat-square&logoColor=white" alt="ImageKit"/>
+</p>
+
+### `// 03 — DEPLOYED PROJECTS`
+
+| Project | Description | Link |
+|---|---|---|
+| 💬 **TwixChat** | Social feed, stories, messaging | [Live ↗](https://twix-chat-seven.vercel.app/feed) |
+| 🧠 **Student Score Predictor** | Linear Regression with Python | [Repository ↗](https://github.com/Abhishek20-prog/student-score-predictor) |
+| 🤖 **ContextBell** | AI-powered study project | [Live ↗](https://context-bell-study-ai.lovable.app/) |
+| 🩸 **BloodConnect** | Blood donation platform | [GitHub ↗](https://github.com/Shreyyyi/BloodConnect) |
+| 📅 **Day-Kram** | Productivity web app | [Live ↗](https://day-kram.vercel.app/) |
+| ✨ **Galnexa** | AI-focused web app | [Live ↗](https://galnexa-two.vercel.app/) |
+| 🌍 **NGO Awareness** | Interactive awareness website | [Live ↗](https://foundation-awareness.vercel.app/) |
+| 🛒 **Product Filtering** | Interactive product discovery | [Live ↗](https://e-shop-sigma-three.vercel.app/) |
+
+### `// 04 — GITHUB TELEMETRY`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek20-prog&show_icons=true&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E2E8F0&icon_color=A78BFA&rank_icon=github" height="145" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20-prog&layout=compact&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=E2E8F0&langs_count=5" height="145" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abhishek20-prog&theme=transparent&hide_border=true&background=050816&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" width="75%" alt="Contribution streak"/>
+</p>
+
+### `// 05 — ACHIEVEMENTS`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek20-prog&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1&column=5" width="100%" alt="GitHub trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek20-prog&bg_color=050816&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true&custom_title=ACTIVITY%20MATRIX" width="100%" alt="GitHub activity graph"/>
+</p>
+
+### `// 06 — FIND ME ONLINE`
+
+<p align="center">
+  <a href="https://linkedin.com/in/abhishekkumar005"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/vortex.electrified"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
+  <a href="https://leetcode.com/Abhishekkumar_20"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=450&height=30&lines=%3E+New+ideas+loading...;%3E+Keep+building+the+future+%E2%9A%A1" alt="Animated closing text"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:050816,50:312E81,100:06B6D4" width="100%" alt="Neon footer"/>
+</p>
