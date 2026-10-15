@@ -134,7 +134,7 @@ A Machine Learning project that estimates student exam scores using a trained Li
 
 **Learning focus:** Data preparation, feature selection, model training, evaluation, and prediction.
 
-🔗 **Repository:** Add your Student Score Predictor GitHub URL here.
+🔗 **Repository:** https://github.com/Abhishek20-prog/student-score-predictor
 
 ---
 
