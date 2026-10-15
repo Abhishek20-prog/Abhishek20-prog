@@ -73,7 +73,7 @@ Hey there! I'm **Abhishek Kumar**, a developer who enjoys turning ideas into int
 ### 💬 1. TwixChat — Full-Stack Social Media Platform
 
 <p align="center">
-  <a href="https://twix-chat-red.vercel.app/">
+  <a href="https://twix-chat-seven.vercel.app/feed">
     <img src="https://img.shields.io/badge/EXPLORE_TWIXCHAT-Live_Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -98,7 +98,7 @@ A social media application built to bring user connections, content sharing, sto
 
 Full-stack architecture, API integration, authentication, database operations, media uploads, and debugging real-world application issues.
 
-🔗 **Live Demo:** [twix-chat-red.vercel.app](https://twix-chat-red.vercel.app/)
+🔗 **Live Demo:** [twix-chat-red.vercel.app](https://twix-chat-seven.vercel.app/feed)
 
 ---
 
