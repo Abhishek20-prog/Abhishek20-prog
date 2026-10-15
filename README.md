@@ -1,61 +1,63 @@
- <!-- MATRIX TERMINAL | ABHISHEK KUMAR -->
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,45:0E7490,100:67E8F9&height=220&section=header&text=ABHISHEK%20KUMAR&fontSize=42&fontColor=E0F2FE&fontAlignY=38&desc=DEVELOP.%20EXPLORE.%20INNOVATE.&descSize=14&descColor=CFFAFE&descAlignY=58&animation=twinkling" width="100%" alt="Ocean-themed animated header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020503,50:052E16,100:020503&text=ABHISHEK%20KUMAR&fontColor=39FF14&fontSize=48&fontAlignY=48&desc=BUILDING%20THE%20FUTURE%20ONE%20COMMIT%20AT%20A%20TIME&descSize=11&descColor=86EFAC&descAlignY=68&animation=fadeIn&stroke=16A34A&strokeWidth=1" width="100%" alt="Abhishek Kumar Matrix-themed animated header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+environment...;%3E+Frontend+Developer+%7C+ML+Enthusiast;%3E+Turning+ideas+into+working+products;%3E+Learn.+Build.+Debug.+Repeat." alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&lines=%3E+Frontend+Developer;%3E+Exploring+AI+%26+Machine+Learning;%3E+Building+ideas+into+digital+products;%3E+Learning+something+new+every+day." alt="Animated developer introduction"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-020503?style=flat-square&logo=github&logoColor=39FF14)](https://github.com/Abhishek20-prog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-020503?style=flat-square&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/abhishekkumar005/)
-[![Instagram](https://img.shields.io/badge/Instagram-020503?style=flat-square&logo=instagram&logoColor=39FF14)](https://www.instagram.com/vortex.electrified/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-020503?style=flat-square&logo=leetcode&logoColor=39FF14)](https://leetcode.com/u/Abhishekkumar_20/)
+[![GitHub](https://img.shields.io/badge/GitHub-061826?style=flat-square&logo=github&logoColor=67E8F9)](https://github.com/Abhishek20-prog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-061826?style=flat-square&logo=linkedin&logoColor=67E8F9)](https://www.linkedin.com/in/abhishekkumar005/)
+[![Instagram](https://img.shields.io/badge/Instagram-061826?style=flat-square&logo=instagram&logoColor=67E8F9)](https://www.instagram.com/vortex.electrified/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-061826?style=flat-square&logo=leetcode&logoColor=67E8F9)](https://leetcode.com/u/Abhishekkumar_20/)
 
 </div>
 
 ---
 
-## `01 // SYSTEM PROFILE`
+## 🌊 About Me
 
-```text
-┌────────────────────────────────────────────────────────┐
-│               DEVELOPER INFORMATION                    │
-├────────────────────────────────────────────────────────┤
-│  USER       : Abhishek Kumar                           │
-│  ROLE       : Frontend Developer | ML Learner           │
-│  FOCUS      : Web Development, AI & Machine Learning   │
-│  MINDSET    : Learn by building                         │
-│  CURRENTLY  : Building projects and exploring ML       │
-│  OBJECTIVE  : Turn ideas into useful digital products  │
-└────────────────────────────────────────────────────────┘
+```yaml
+name: Abhishek Kumar
+role: Frontend Developer & ML Learner
+interests:
+  - Web Development
+  - Artificial Intelligence
+  - Machine Learning
+  - UI/UX Design
+currently_focused_on:
+  - Building practical projects
+  - Exploring Python and ML
+  - Improving development skills
+mindset: Learn by building
 ```
 
-- Building interactive web applications with a focus on usability.
-- Exploring Python, machine learning, and data-driven projects.
-- Learning by experimenting, debugging, and shipping projects.
-- Interested in collaborating on meaningful open-source projects.
+I enjoy creating web experiences, experimenting with new technologies, and turning ideas into useful applications.
+
+- 🌐 Developing modern and interactive web applications.
+- 🤖 Exploring machine learning and data-driven projects.
+- 🛠️ Learning through real-world projects and experimentation.
+- 🌱 Improving my problem-solving and software development skills.
 
 ---
 
-## `02 // TECH STACK`
+## 🐚 Tech Stack
 
 <div align="center">
 
-**LANGUAGES**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML and CSS"/>
 
-**FRONTEND & UI**
+**Frontend & UI**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,redux,figma&theme=dark" alt="React, Tailwind CSS, Vite, Redux and Figma"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,redux,figma&theme=dark" alt="React, Tailwind, Vite, Redux and Figma"/>
 
-**BACKEND & DATABASE**
+**Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express and MongoDB"/>
 
-**TOOLS & LEARNING**
+**Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,sklearn&theme=dark" alt="Git, GitHub, VS Code, npm, Vercel and scikit-learn"/>
 
@@ -63,9 +65,7 @@
 
 ---
 
-## `03 // FEATURED PROJECTS`
-
-> Selected projects from my development journey.
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -73,23 +73,22 @@
 
 ### TwixChat
 
-A social networking application featuring a feed, stories, profiles, and messaging.
+A social networking application with a feed, stories, user profiles, connections, and messaging.
 
-**Stack:** React · Tailwind CSS · Express · MongoDB
+**Technologies:** React, Tailwind CSS, Node.js, Express, MongoDB
 
-[**↗ Live application**](https://twix-chat-seven.vercel.app/feed)  
-[**↗ Source code**](https://github.com/Abhishek20-prog)
+[🌐 Live application](https://twix-chat-seven.vercel.app/feed) · [💻 GitHub profile](https://github.com/Abhishek20-prog)
 
 </td>
 <td width="50%" valign="top">
 
 ### Student Score Predictor
 
-A beginner machine learning project that predicts student scores using regression.
+A beginner ML project that predicts student scores using regression and student-related data.
 
-**Stack:** Python · Pandas · NumPy · scikit-learn
+**Technologies:** Python, NumPy, Pandas, scikit-learn
 
-[**↗ Source repository**](https://github.com/Abhishek20-prog/student-score-predictor)
+[💻 Find my repositories](https://github.com/Abhishek20-prog?tab=repositories)
 
 </td>
 </tr>
@@ -100,20 +99,16 @@ A beginner machine learning project that predicts student scores using regressio
 
 An AI-powered study application concept designed to support learning.
 
-**Stack:** Web application · AI learning tools
-
-[**↗ Live application**](https://context-bell-study-ai.lovable.app/)
+[🌐 Live application](https://context-bell-study-ai.lovable.app/)
 
 </td>
 <td width="50%" valign="top">
 
 ### BloodConnect
 
-A blood donation and donor connection project.
+A project focused on connecting people with blood donation resources.
 
-**Stack:** Web development
-
-[**↗ Source code**](https://github.com/Shreyyyi/BloodConnect)
+[💻 Source code](https://github.com/Shreyyyi/BloodConnect)
 
 </td>
 </tr>
@@ -122,18 +117,18 @@ A blood donation and donor connection project.
 
 ### Day-Kram
 
-A web project focused on organizing daily activities.
+A web application project exploring daily organization.
 
-[**↗ Live application**](https://day-kram.vercel.app/)
+[🌐 Live application](https://day-kram.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
 ### Galnexa
 
-A web project exploring modern web experiences.
+A modern web experience built as part of my development journey.
 
-[**↗ Live application**](https://galnexa-two.vercel.app/)
+[🌐 Live application](https://galnexa-two.vercel.app/)
 
 </td>
 </tr>
@@ -142,18 +137,18 @@ A web project exploring modern web experiences.
 
 ### Foundation Awareness
 
-A website focused on NGO and social awareness.
+An NGO and social-awareness website.
 
-[**↗ Live application**](https://foundation-awareness.vercel.app/)
+[🌐 Live application](https://foundation-awareness.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
 ### E-Shop Product Filtering
 
-An e-commerce interface with product filtering functionality.
+An e-commerce interface featuring product filtering.
 
-[**↗ Live application**](https://e-shop-sigma-three.vercel.app/)
+[🌐 Live application](https://e-shop-sigma-three.vercel.app/)
 
 </td>
 </tr>
@@ -161,44 +156,48 @@ An e-commerce interface with product filtering functionality.
 
 ---
 
-## `04 // GITHUB ANALYTICS`
+## 🌧️ GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek20-prog&show_icons=true&hide_border=true&bg_color=020503&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&ring_color=39FF14" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek20-prog&show_icons=true&hide_border=true&bg_color=061826&title_color=67E8F9&icon_color=22D3EE&text_color=CFFAFE" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20-prog&layout=compact&hide_border=true&bg_color=020503&title_color=39FF14&text_color=C9D1D9" alt="Most used programming languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20-prog&layout=compact&hide_border=true&bg_color=061826&title_color=67E8F9&text_color=CFFAFE" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Abhishek20-prog&hide_border=true&background=020503&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=86EFAC&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=86EFAC" width="70%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Abhishek20-prog&hide_border=true&background=061826&ring=22D3EE&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=A5F3FC&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=94A3B8" width="70%" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## `05 // CONTRIBUTION SNAKE`
+## 🐍 Contribution River
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abhishek20-prog/Abhishek20-prog/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/Abhishek20-prog/Abhishek20-prog/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
 
 </div>
 
 ---
 
-## `06 // CONNECT TO THE DEVELOPER`
+## 🤝 Let's Connect
 
 <div align="center">
 
-**Have an idea? Let's build something useful.**
+I'm always interested in learning, building, and connecting with fellow developers.
 
-[![GitHub](https://img.shields.io/badge/EXPLORE%20MY%20CODE-020503?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Abhishek20-prog)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-020503?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/abhishekkumar005/)
-[![Instagram](https://img.shields.io/badge/FOLLOW-020503?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://www.instagram.com/vortex.electrified/)
+[![GitHub](https://img.shields.io/badge/EXPLORE%20MY%20CODE-061826?style=for-the-badge&logo=github&logoColor=67E8F9)](https://github.com/Abhishek20-prog)
+[![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-061826?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://www.linkedin.com/in/abhishekkumar005/)
+[![Instagram](https://img.shields.io/badge/FOLLOW%20ON%20INSTAGRAM-061826?style=for-the-badge&logo=instagram&logoColor=67E8F9)](https://www.instagram.com/vortex.electrified/)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=%3E+Keep+learning.;%3E+Keep+building.;%3E+Make+every+commit+count._" alt="Animated closing message"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=500&lines=Keep+exploring.;Keep+creating.;Keep+making+progress." alt="Animated closing message"/>
 
-<sub>ACCESS GRANTED // THANKS FOR VISITING MY PROFILE</sub>
+<sub>🌊 THANKS FOR STOPPING BY · KEEP BUILDING</sub>
 
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:0E7490,100:061826&height=100&section=footer" width="100%" alt="Ocean wave footer"/>
 </div>
